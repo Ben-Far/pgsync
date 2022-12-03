@@ -1,0 +1,49 @@
+[
+    {
+        "database": "nudge",
+        "index": "smfood",
+        "nodes": {
+            "table": "smfood",
+            "columns": [
+                "id",
+                "name",
+                "description",
+                "image_dir",
+                "image_name",
+                "category",
+                "cuisine",
+                "nutrient",
+                "nf_calories",
+                "nf_protein",
+                "nf_total_carbohydrate",
+                "nf_total_fat",
+                "nf_dietary_fiber",
+                "nf_cholesterol",
+                "nf_potassium",
+                "nf_saturated_fat",
+                "nf_sodium",
+                "nf_sugars",
+                "ingredient_text",
+                "wellness_claims",
+                "serving_qty",
+                "serving_unit",
+                "serving_weight_grams",
+                "alt_measures",
+                "cooking_instruction",
+                "cooking_time",
+                "cooking_video",
+                "tags",
+                "status",
+                "insight",
+                "type",
+                "brand_id",
+                "dietary",
+                "allergy",
+                "nf_trans_fat",
+                "nf_calories_from_fat",
+                "rating"
+
+            ]
+        }
+    }
+]
